@@ -8,15 +8,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Berkan, a Unity Game Developer from Turkey.<br><br>- 📚📚 I'm currently learning advanced C#, multiplayer synchronization techniques, and game physics.<br><br>- ⚡ In my free time I experiment with weird mechanics, small prototypes, and SnowRunner-style traversal idea.</p>
+<p align="left">I'm Berkan, a Unity Game Developer from Turkey.<br><br>-  I'm currently learning advanced C#, multiplayer synchronization techniques, and game physics.<br><br>-In my free time I experiment with weird mechanics, small prototypes, and SnowRunner-style traversal idea.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
