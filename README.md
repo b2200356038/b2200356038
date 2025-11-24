@@ -33,20 +33,3 @@
 </div>
 
 
-###
-
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=b2200356038&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=b2200356038.b2200356038&left_color=black&right_color=black"  />
-</div>
-
-###
