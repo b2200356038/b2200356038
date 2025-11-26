@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Berkan, a Unity Game Developer from Turkey.<br><br> I'm currently learning advanced C#, multiplayer synchronization techniques, and game physics.<br><br></p>
+<p align="left">I'm Berkan, a Unity Game Developer from Turkey.<br><br> I'm currently learning advanced C#, multiplayer game development, and game physics.<br><br></p>
 
 ###
 
